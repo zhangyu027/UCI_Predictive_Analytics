@@ -1,7 +1,7 @@
 
-!pip install streamlit
+pip install streamlit
 
-!pip install plotly
+pip install plotly
 
 
 
